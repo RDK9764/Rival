@@ -1,0 +1,22 @@
+{
+    "name": "Rival.Enemy",
+    "rootNamespace": "Rival.Enemy",
+    "references": [
+        "Rival.Actors",
+        "Rival.Combat",
+        "Rival.BehaviorAnalysis",
+        "Rival.Core",
+        "Rival.Utilities",
+        "Rival.SaveSystem",
+        "Rival.Telemetry"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

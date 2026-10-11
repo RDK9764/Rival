@@ -1,0 +1,21 @@
+{
+    "name": "Rival.Player",
+    "rootNamespace": "Rival.Player",
+    "references": [
+        "Rival.Actors",
+        "Rival.Camera",
+        "Rival.Combat",
+        "Rival.Core",
+        "Rival.Input",
+        "Rival.Utilities"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

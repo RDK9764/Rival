@@ -1,0 +1,16 @@
+{
+    "name": "Rival.BehaviorAnalysis",
+    "rootNamespace": "Rival.BehaviorAnalysis",
+    "references": [
+        "Rival.Telemetry"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

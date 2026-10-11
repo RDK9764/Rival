@@ -1,0 +1,28 @@
+{
+    "name": "Rival.Editor",
+    "rootNamespace": "Rival.Editor",
+    "references": [
+        "Rival.Core",
+        "Rival.Input",
+        "Rival.Actors",
+        "Rival.Combat",
+        "Rival.Camera",
+        "Rival.Player",
+        "Rival.Enemy",
+        "Rival.UI",
+        "Rival.Weapons",
+        "Rival.Telemetry",
+        "Rival.BehaviorAnalysis",
+        "Rival.SaveSystem",
+        "Rival.Utilities"
+    ],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

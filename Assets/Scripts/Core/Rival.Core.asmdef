@@ -1,0 +1,18 @@
+{
+    "name": "Rival.Core",
+    "rootNamespace": "Rival.Core",
+    "references": [
+        "Rival.Utilities",
+        "Rival.Input",
+        "Rival.Combat"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

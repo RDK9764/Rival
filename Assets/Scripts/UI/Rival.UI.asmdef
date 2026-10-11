@@ -1,0 +1,21 @@
+{
+    "name": "Rival.UI",
+    "rootNamespace": "Rival.UI",
+    "references": [
+        "Rival.Actors",
+        "Rival.Combat",
+        "Rival.Core",
+        "Rival.Enemy",
+        "Rival.Input",
+        "Rival.Utilities"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

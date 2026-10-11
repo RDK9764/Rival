@@ -1,0 +1,19 @@
+{
+    "name": "Rival.Camera",
+    "rootNamespace": "Rival.Camera",
+    "references": [
+        "Rival.Utilities",
+        "Rival.Input",
+        "Rival.Core",
+        "Rival.Combat"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

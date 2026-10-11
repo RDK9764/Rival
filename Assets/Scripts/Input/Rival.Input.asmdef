@@ -1,0 +1,18 @@
+{
+    "name": "Rival.Input",
+    "rootNamespace": "Rival.Input",
+    "references": [
+        "Rival.Utilities",
+        "Rival.Combat",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
